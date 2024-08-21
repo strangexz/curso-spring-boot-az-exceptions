@@ -21,8 +21,8 @@ public class User {
 //		this.role = role;
 	}
 	
-	public String getRoleName() {
-		return role.getName();
-	}
+//	public String getRoleName() {
+//		return role.getName();
+//	}
 
 }
